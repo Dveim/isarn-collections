@@ -1,3 +1,9 @@
+# Fork's purpose
+This is _almost_ one-to-one copy of isarn/isarn-collections used in "scala for beginners" course during demonstration of different languages features and Intellij hotkeys.
+
+In a single line of code there was made an error which leads to 2 failing tests. Task for students is to find where bug is, using all available navigation & debugging tools and common sense (pay attention for method names!). Fix is not necessary, as it requires small understanding of data structures, one can try to fix as a bonus assignment.
+
+
 # isarn-collections
 Collections and related data structures
 
